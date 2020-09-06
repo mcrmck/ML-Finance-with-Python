@@ -7,5 +7,6 @@ Please See the following links for accompanying Google Slide presentations:
 * [Lesson 1](https://docs.google.com/presentation/d/1a6jQTdAlmEnICqyCz3JoCDGXE-WxKI1XT3GdKPp0Uf8/edit?usp=sharing)
 * [Lesson 2](https://docs.google.com/presentation/d/1623dPfA2F3OgExeQWoUurvJ_7YRFQijUMe10KhpJskk/edit?usp=sharing)
 * [Lesson 3](https://docs.google.com/presentation/d/1YEl1msRrpwSSdwFK-K8OXdz5pnB3mbVBVf25dTHZVD4/edit?usp=sharing)
+* [Lesson 4](https://docs.google.com/presentation/d/1YIrRrJoNgrcc15c3_Ur1svcK5jtYofPVPXFLj82jYmg/edit?usp=sharing)
 
 This class was created by Will McCormack.
